@@ -16,4 +16,4 @@ pandas
 scikit-learn
 
 **Example Use Case:**
-This project can be used to distinguish between rocks and mines based on their features, potentially aiding in geological surveys or underwater exploration.
+This project can be used to distinguish between rocks and mines based on their features, potentially helping in geological surveys or underwater exploration.
